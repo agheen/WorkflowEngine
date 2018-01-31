@@ -1,0 +1,6 @@
+c:\users\austin\documents\visual studio 2017\Projects\WorkflowEngine\WorkflowEngine\bin\Debug\WorkflowEngine.exe.config
+c:\users\austin\documents\visual studio 2017\Projects\WorkflowEngine\WorkflowEngine\bin\Debug\WorkflowEngine.exe
+c:\users\austin\documents\visual studio 2017\Projects\WorkflowEngine\WorkflowEngine\bin\Debug\WorkflowEngine.pdb
+c:\users\austin\documents\visual studio 2017\Projects\WorkflowEngine\WorkflowEngine\obj\Debug\WorkflowEngine.csprojResolveAssemblyReference.cache
+c:\users\austin\documents\visual studio 2017\Projects\WorkflowEngine\WorkflowEngine\obj\Debug\WorkflowEngine.exe
+c:\users\austin\documents\visual studio 2017\Projects\WorkflowEngine\WorkflowEngine\obj\Debug\WorkflowEngine.pdb
